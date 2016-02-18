@@ -5,7 +5,7 @@ The primary goal of this project is to create a classifier that can automaticall
 
 There is a huge gap between publishing a finding and benefiting the patients. It will take an even longer time to incorporate evidence in the fields which has insufficient active researchers to update the systematic review and meta-analysis. Therefore, with the help of Natural Language Processing, this project is aimed to automate the process of evidence extraction from published articles. I hope this program will help clinicians focus on the clinical evidence itself rather than waste time on searching and evaluating papers.
 
-Tasks \n
+Tasks 
 1. Crawling pubmed abstracts according to a certain of search terms.
 2. Recognizing and tagging the abstract to obtain information on the PICO (Patient, intervention, Control, outcome) and study design.
 3. Classifying crawled entries into relevant/irrelevant articles according to PICO principle.
